@@ -22,6 +22,6 @@ pip install -r requirements.txt
 python main.py
 
 Remote healthtech | Open to AI Trainer & Medical Data Annotation roles (USD)
-→ soniaalejandratoledo.carrd.co
+Portfolio: https://soniaalejandratoledo.carrd.co
 
 
