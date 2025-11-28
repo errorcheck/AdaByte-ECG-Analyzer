@@ -1,8 +1,0 @@
-patient_id,heart_rate,qrs_duration,arrhythmia_detected
-1,82,0.09,no
-2,120,0.14,yes
-3,95,0.10,no
-4,140,0.16,yes
-5,75,0.08,no
-6,110,0.13,yes
-7,88,0.11,no
